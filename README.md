@@ -1,4 +1,3 @@
-# 📄 PDF AI Summarizer
 
 A powerful Python application that uses **Google Gemini AI** to automatically summarize PDF documents. Upload any PDF and get intelligent, customizable summaries in multiple formats!
 
